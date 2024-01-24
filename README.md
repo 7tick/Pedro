@@ -1,1 +1,1 @@
-# Pedro
+# Pedro (The Card Game)
